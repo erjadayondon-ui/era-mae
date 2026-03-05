@@ -1,6 +1,6 @@
 {
-  "name": "To-Do-List",
-  "short_name": "DT",
+  "name": "Post Guard",
+  "short_name": "Post Guard",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#F5F5DC",
@@ -17,4 +17,5 @@
       "type": "image/png"
     }
   ]
+
 }
